@@ -1,0 +1,218 @@
+/*
+Theme Name: Martial Arts Training
+Theme URI: https://www.ovationthemes.com/wordpress/free-martial-arts-wordpress-theme/
+Author: pewilliams
+Author URI: https://www.ovationthemes.com/
+Description: Martial Arts Training theme is best for sports, Gym, Training, martial arts, multi martial arts MMA, bodybuilding, fitness courses, fitness trainers, and cardio trainers. Ideal for promoting healthy living & active lifestyle, gym, personal trainers, fitness and health coaching, Fitness centers, indoor and outdoor exercise classes, sports clubs, and diet and nutrition websites. This minimal multipurpose martial arts training will make any website rank on search engines, whether it is google, firefox, or bing. This theme will be suitable for all. Also, the social media icons like Facebook, Instagram, etc. Are added for the visitors from social media. Martial arts training has a lot of great features like Retina ready, user-friendly, responsive, beautiful, professional, personalization options, Call to Action Button (CTA), social media, Martial Arts friendly, shortcodes, Customization Options, translation ready, modern, luxurious. This theme is amazing and minimal for everyone who is willing to attract more visitors from websites.
+Version: 0.1
+Requires PHP: 7.2
+Tested up to: 6.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: martial-arts-training
+Template: fitness-insight
+Tags: one-column, two-columns, right-sidebar, left-sidebar, grid-layout, full-width-template, sticky-post, block-styles, custom-colors, custom-background, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, threaded-comments, wide-blocks, food-and-drink, portfolio, education
+
+Martial Arts Training WordPress Theme, Copyright 2023 pewilliams
+Martial Arts Training is distributed under the terms of the GNU GPL
+
+Martial Arts Training WordPress Theme is child theme of Fitness Insight WordPress Theme, Copyright 2023 pewilliams
+Fitness Insight WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,.home-btn a{
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+span.entry-author a,.comment-author a,.product_meta a {
+    text-decoration: underline;
+}
+
+a.more-link,.prev.page-numbers, .next.page-numbers,.page-numbers.current,button.search-submit,#sidebar .tagcloud a:hover, .site-footer .tagcloud a:hover,.site-footer .search-form .search-submit,.gb_nav_menu ul ul,button, input[type="button"], input[type="submit"],nav.woocommerce-MyAccount-navigation ul li,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce ul.products li.product .onsale, .woocommerce span.onsale,.wp-block-button .wp-block-button__link,.top_header span i,.home-btn a,#slider .carousel-control-next-icon:hover, #slider .carousel-control-prev-icon:hover,.box:hover:before,.top_header{
+    background: #e2133a;
+}
+
+.sticky,.wp-block-quote:not(.is-large):not(.is-style-large), blockquote,.wp-block-quote:not(.is-large):not(.is-style-large){
+    border-color: #e2133a;
+}
+
+a,#Category-section .postbox.smallpostimage:hover h3 a,#sidebar select,#sidebar th,#sidebar td,#sidebar caption,.site-footer .widget-area a:hover,a.showcoupon, .woocommerce-message::before,.logo h1 a,.logo h1, .site-title, .site-title a {
+    color: #e2133a;
+}
+
+.gb_nav_menu ul ul a,a:hover, a:active,a.more-link,.prev.page-numbers, .next.page-numbers,.page-numbers.current,button, input[type="button"], input[type="submit"],#sidebar .tagcloud a:hover, .site-footer .tagcloud a:hover,.site-footer .search-form .search-submit,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce ul.products li.product .onsale, .woocommerce span.onsale,.page-template-custom-home-page .top_header strong,.page-template-custom-home-page .top_header span i,.home-btn a,#slider .carousel-control-next-icon:hover, #slider .carousel-control-prev-icon:hover,.box .box-content,.box-content h4 a,.top_header span,.page-template-custom-home-page .links i.fab.fa-facebook-f,.page-template-custom-home-page .links i.fab.fa-twitter,.page-template-custom-home-page .links i.fab.fa-youtube,.page-template-custom-home-page .links i.fab.fa-instagram,.top_header span i,nav.woocommerce-MyAccount-navigation ul li a{
+    color: #fff;
+}
+
+.gb_nav_menu ul ul a:hover,.home-btn a:hover,.form-horizontal button#submit:hover{
+    background: #171d29;
+}
+
+.woocommerce a.checkout-button.button.alt.wc-forward,.wp-block-button .wp-block-button__link{
+    color: #171d29 !important;
+}
+
+.woocommerce a.checkout-button.button.alt.wc-forward:hover,.wp-block-button .wp-block-button__link:hover,.toggle-menu.gb_menu button,.form-horizontal button#submit:hover{
+    color: #fff !important;
+}
+
+.gb_nav_menu li a,.site-title a:hover{
+    color: #171d29;
+}
+
+#header,.menu_header{
+    background: transparent;
+}
+.top_header span i {
+    margin: 0;
+    border: none;
+    padding: 0;
+    border-radius: 0;
+}
+.top_header span {
+    border-right: none;
+    padding-right: 0;
+}
+.page-template-custom-home-page .wrap_figure{
+    position: static;
+}
+.menu_header,.logo{
+    padding: 0;
+}
+
+/* --------- loader --------- */
+
+.load :first-child{
+    background: #e2133a;
+    animation-delay:-1.5s;
+}
+.load :nth-child(2){
+    background:#e2133a;
+    animation-delay:-1s;
+}
+.load :nth-child(3){
+    background:#e2133a;
+    animation-delay:-0.5s;
+}
+.load :last-child{
+    background:#e2133a;
+}
+.bypostauthor > .comment-body > .comment-meta > .comment-author .avatar {
+    border: 1px solid #323232;
+    padding: 2px;
+}
+
+/* Accessibility */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}
+
+.logo h1, .site-title, .site-title a{
+    text-transform: uppercase;
+}
+.logo{
+    text-align: left;
+}
+#slider .carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    right: 50%;
+    text-align: left;
+}
+.home-btn a:hover{
+    color: #fff;
+}
+a.more-link,.home-btn a,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt{
+    border-radius: 0;
+}
+.classes-inner-box p {
+    color: #171d29;
+}
+.classes-box img {
+    width: 100%;
+}
+.classes-content-box img {
+    opacity: 0.1;
+}
+.classes-content-box {
+    position: relative;
+}
+.classes-inner-box {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 25px;
+}
+.classes-inner-box hr {
+    width: 30%;
+    background-color: #e2133a;
+    height: 3px;
+    display: inline-block;
+    margin: 6px 0;
+}
+.classes-inner-box h4 {
+    font-size: 20px;
+}
+
+@media screen and (max-width: 720px){
+    #slider .carousel-caption p,.classes-inner-box p{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 800px){
+    #slider .carousel-caption {
+        right: 20%;
+    }
+    .gb_nav_menu ul ul{
+        background: transparent;
+    }
+    .side_gb_nav,.toggle-menu button{
+        background: #171d29;
+    }
+    .toggle-menu{
+        text-align: right;
+    }
+}

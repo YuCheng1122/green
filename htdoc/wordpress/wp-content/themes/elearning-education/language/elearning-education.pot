@@ -1,0 +1,730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eLearning Education\n"
+"Last-Translator: \n"
+"Language-Team: ThemesPride <support@themespride.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: comments.php:29
+msgid 'One Reply to &ldquo;%s&rdquo;'
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:60
+msgid 'Previous'
+msgstr ""
+
+#: comments.php:61
+msgid 'Next'
+msgstr ""
+
+#: comments.php:69
+msgid 'Comments are closed.'
+msgstr ""
+
+#: functions.php:24
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:85
+#: sidebar.php:10
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:87
+#: functions.php:107
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:95
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:97
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:105
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:107
+msgid 'Add widgets here to appear in your sidebar on blog posts and archive pages.'
+msgstr ""
+
+#: functions.php:115
+msgid 'Footer 1'
+msgstr ""
+
+#: functions.php:125
+msgid 'Footer 2'
+msgstr ""
+
+#: functions.php:135
+msgid 'Footer 3'
+msgstr ""
+
+#: functions.php:145
+msgid 'Footer 4'
+msgstr ""
+
+#: functions.php:117
+#: functions.php:127
+#: functions.php:137
+#: functions.php:147
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:207
+msgid 'eLearning Education WordPress Theme'
+msgstr ""
+
+#: archive.php:54
+#: archive.php:92
+#: archive.php:129
+#: archive.php:166
+#: archive.php:205
+#: archive.php:244
+#: archive.php:282
+#: index.php:45
+#: index.php:83
+#: index.php:120
+#: index.php:157
+#: index.php:196
+#: index.php:235
+#: index.php:273
+#: search.php:54
+#: search.php:94
+#: search.php:133
+#: search.php:172
+#: search.php:212
+#: search.php:253
+#: search.php:291
+#: single.php:30
+#: single.php:55
+#: single.php:79
+#: single.php:103
+#: single.php:129
+#: single.php:155
+#: single.php:180
+msgid  'Previous page'
+msgstr ""
+
+#: archive.php:55
+#: archive.php:93
+#: archive.php:130
+#: archive.php:166
+#: archive.php:207
+#: archive.php:245
+#: archive.php:283
+#: index.php:46
+#: index.php:84
+#: index.php:121
+#: index.php:158
+#: index.php:197
+#: index.php:236
+#: index.php:274
+#: search.php:55
+#: search.php:95
+#: search.php:134
+#: search.php:173
+#: search.php:213
+#: search.php:254
+#: search.php:292
+#: single.php:31
+#: single.php:56
+#: single.php:80
+#: single.php:104
+#: single.php:130
+#: single.php:156
+#: single.php:181
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:56
+#: archive.php:94
+#: archive.php:131
+#: archive.php:168
+#: archive.php:207
+#: archive.php:246
+#: archive.php:284
+#: index.php:47
+#: index.php:85
+#: index.php:122
+#: index.php:159
+#: index.php:198
+#: index.php:237
+#: index.php:275
+#: search.php:56
+#: search.php:96
+#: search.php:135
+#: search.php:174
+#: search.php:214
+#: search.php:255
+#: search.php:293
+#: single.php:32
+#: single.php:57
+#: single.php:81
+#: single.php:105
+#: single.php:131
+#: single.php:157
+#: single.php:182
+msgid 'Page'
+msgstr ""
+
+#: search.php:15
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: search.php:16
+#: template-parts/post/content-none.php:13
+msgid 'Nothing Found'
+msgstr ""
+
+#: search.php:43
+#: search.php:83
+#: search.php:122
+#: search.php:161
+#: search.php:202
+#: search.php:242
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: searchform.php:13
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:14
+msgid 'submit button'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Custom Home page'
+msgstr ""
+
+#: inc/customizer.php:22
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:27
+msgid 'TP General Option'
+msgstr ""
+
+#: inc/customizer.php:38
+msgid 'Body Layout Setting'
+msgstr ""
+
+#: inc/customizer.php:39
+msgid 'This option work for complete body, if you want to set the complete website in container.'
+msgstr ""
+
+#: inc/customizer.php:42
+msgid 'Full'
+msgstr ""
+
+#: inc/customizer.php:43
+msgid 'Container'
+msgstr ""
+
+#: inc/customizer.php:44
+msgid 'Container Fluid'
+msgstr ""
+
+#: inc/customizer.php:55
+msgid 'Theme Sidebar Position'
+msgstr ""
+
+#: inc/customizer.php:56
+msgid 'This option work for blog page, blog single page, archive page and search page.'
+msgstr ""
+
+#: inc/customizer.php:62
+msgid 'Three Columns'
+msgstr ""
+
+#: inc/customizer.php:63
+msgid 'Four Columns''
+msgstr ""
+
+#: inc/customizer.php:64
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:50
+#: inc/customizer.php:61
+#: inc/customizer.php:70
+#: inc/customizer.php:81
+msgid 'right'
+msgstr ""
+
+#: inc/customizer.php:91
+msgid 'Show / Hide Sticky Header'
+msgstr ""
+
+#: inc/customizer.php:97
+msgid 'TP Blog Option'
+msgstr ""
+
+#: inc/customizer.php:108
+msgid 'Show / Hide Date Option'
+msgstr ""
+
+#: inc/customizer.php:108
+msgid 'Show / Hide Author Option'
+msgstr ""
+
+#: inc/customizer.php:136
+msgid 'Show / Hide Comment Option'
+msgstr ""
+
+#: inc/customizer.php:150
+msgid 'Show / Hide Tags Option'
+msgstr ""
+
+#: inc/customizer.php:164
+msgid 'Show / Hide Read More Button'
+msgstr ""
+
+#: inc/customizer.php:59
+#: inc/customizer.php:33
+msgid 'Full'
+msgstr ""
+
+#: inc/customizer.php:60
+#: inc/customizer.php:80
+#: inc/customizer.php:114
+msgid 'Left'
+msgstr ""
+
+#: inc/customizer.php:75
+msgid 'Page Sidebar Position'
+msgstr ""
+
+#: inc/customizer.php:76
+msgid 'This option work for pages.'
+msgstr ""
+
+#: inc/customizer.php:173
+msgid 'Read More'
+msgstr ""
+
+#: inc/customizer.php:177
+msgid 'Edit Button Text'
+msgstr ""
+
+#: inc/customizer.php:190
+msgid 'Edit Excerpt Limit'
+msgstr ""
+
+#: inc/customizer.php:202
+msgid 'Contact Details'
+msgstr ""
+
+#: inc/customizer.php:203
+msgid 'Add your contact details'
+msgstr ""
+
+#: inc/customizer.php:81
+#: inc/customizer.php:101
+msgid 'Add Text'
+msgstr ""
+
+#: inc/customizer.php:227
+msgid 'Add Mail Address'
+msgstr ""
+
+#: inc/customizer.php:213
+msgid 'Add Phone Number'
+msgstr ""
+
+#: inc/customizer.php:237
+#: inc/customizer.php:257
+msgid 'Add Button Text'
+msgstr ""
+
+#: inc/customizer.php:247
+#: inc/customizer.php:267
+msgid 'Add Button URL'
+msgstr ""
+
+#: inc/customizer.php:277
+msgid 'Add Become Teacher Text'
+msgstr ""
+
+#: inc/customizer.php:292
+msgid 'Add Wishlist Link'
+msgstr ""
+
+
+#: inc/customizer.php:299
+msgid 'Social Media Links'
+msgstr ""
+
+#: inc/customizer.php:300
+msgid 'Add your Social Links'
+msgstr ""
+
+#: inc/customizer.php:310
+msgid 'Facebook Link'
+msgstr ""
+
+#: inc/customizer.php:324
+msgid 'Twitter Link'
+msgstr ""
+
+#: inc/customizer.php:334
+msgid 'Instagram Link'
+msgstr ""
+
+#: inc/customizer.php:344
+msgid 'YouTube Link'
+msgstr ""
+
+#: inc/customizer.php:354
+msgid 'Pinterest Link'
+msgstr ""
+
+#: inc/customizer.php:361
+msgid 'Slider Section'
+msgstr ""
+
+#: inc/customizer.php:372
+msgid 'Show / Hide slider'
+msgstr ""
+
+#: inc/customizer.php:388
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:396
+msgid 'Online Courses Section'
+msgstr ""
+
+#: inc/customizer.php:406
+msgid 'Courses Title'
+msgstr ""
+
+#: inc/customizer.php:420
+msgid 'Courses Sub Title'
+msgstr ""
+
+#: inc/customizer.php:430
+msgid 'Number Of Courses'
+msgstr ""
+
+#: inc/customizer.php:467
+msgid 'Select category to display courses'
+msgstr ""
+
+#: inc/customizer.php:473
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:474
+msgid 'Add copyright text.'
+msgstr ""
+
+#: inc/customizer.php:483
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:498
+msgid 'Show / Hide Return to header'
+msgstr ""
+
+#: inc/customizer.php:509
+msgid 'Scroll to top Position'
+msgstr ""
+
+#: inc/customizer.php:510
+msgid 'This option work for scroll to top'
+msgstr ""
+
+#: inc/customizer.php:537
+msgid 'Show / Hide Site Title'
+msgstr ""
+
+#: inc/customizer.php:547
+msgid 'Show / Hide Tagline'
+msgstr ""
+
+#: inc/customizer.php:556
+msgid 'Here You Can Customize Your Logo Size'
+msgstr ""
+
+#: inc/customizer.php:562
+#: template-parts/header/site-branding.php:17
+#: template-parts/header/site-branding.php:18
+msgid 'Different Line'
+msgstr ""
+
+#: inc/customizer.php:567
+msgid 'Logo Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:568
+msgid 'Here you have two options 1. Logo and Site tite in differnt line. 2. Logo and Site title in same line.'
+msgstr ""
+
+#: inc/customizer.php:572
+#: template-parts/header/site-branding.php:31
+msgid 'Same Line'
+msgstr ""
+
+#: inc/customizer.php:581
+msgid 'Product Per Row'
+msgstr ""
+
+#: inc/customizer.php:591
+msgid 'Product Per Page'
+msgstr ""
+
+#: inc/customizer.php:602
+msgid 'Show / Hide Shop page sidebar'
+msgstr ""
+
+#: inc/customizer.php:612
+msgid 'Show / Hide Product page sidebar'
+msgstr ""
+
+#: inc/customizer.php:643
+msgid 'Education Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:728
+msgid 'Upgrade Pro'
+msgstr ""
+
+#: template-parts/footer/site-info.php:12
+msgid 'By Themespride'
+msgstr ""
+
+#: template-parts/home/courses.php:44
+msgid 'Lifetime access'
+msgstr ""
+
+#: template-parts/home/slider.php:41
+msgid 'READY TO GETSTARTED'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:19
+msgid 'Open Button'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:23
+msgid 'Top Menu'
+msgstr ""
+
+#: template-parts/navigation/site-nav.php:33
+msgid 'Close Menu'
+msgstr ""
+
+#: template-parts/page/content-page.php:22
+msgid 'Pages:'
+msgstr ""
+
+#: template-parts/post/content-audio.php:43
+#: template-parts/post/content-gallery.php:32
+#: template-parts/post/content-image.php:29
+#: template-parts/post/content-video.php:43
+#: template-parts/post/content-grid.php:28
+#: template-parts/post/content.php:29
+#: template-parts/post/single-post.php:20
+msgid '0 Comments'
+msgstr ""
+
+#: template-parts/post/content-grid.php:27
+#: template-parts/post/content-audio.php:49
+#: template-parts/post/content-gallery.php:34
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:49
+#: template-parts/post/content.php:35
+msgid 'Read More'
+msgstr ""
+
+#: inc/about-theme.php:22
+msgid 'About Theme'
+msgstr ""
+
+#: inc/about-theme.php:65
+msgid 'View Demo'
+msgstr ""
+
+#: inc/about-theme.php:69
+msgid 'Theme Instructions'
+msgstr ""
+
+#: inc/about-theme.php:71
+msgid 'Rate this theme'
+msgstr ""
+
+#: inc/about-theme.php:73
+msgid 'Upgrade to pro'
+msgstr ""
+
+#: inc/about-theme.php:83
+msgid 'Secondary menu'
+msgstr ""
+
+#: inc/about-theme.php:86
+msgid 'Compare free Vs Pro'
+msgstr ""
+
+#: inc/about-theme.php:88
+msgid 'Changelog'
+msgstr ""
+
+#: inc/about-theme.php:102
+msgid 'Return to Updates'
+msgstr ""
+
+#: inc/about-theme.php:102
+msgid 'Return to Dashboard &rarr; Updates'
+msgstr ""
+
+#: inc/about-theme.php:105
+msgid 'Go to Dashboard &rarr; Home'
+msgstr ""
+
+#: inc/about-theme.php:105
+msgid 'Go to Dashboard &rarr; Home'
+msgstr "Go to Dashboard"
+
+#: inc/about-theme.php:119
+msgid 'Theme Customizer'
+msgstr ""
+
+#: inc/about-theme.php:120
+msgid 'All Theme Options are available via Customize screen.'
+msgstr ""
+
+#: inc/about-theme.php:121
+msgid 'Customize'
+msgstr ""
+
+#: inc/about-theme.php:125
+msgid 'Got theme support question?'
+msgstr ""
+
+#: inc/about-theme.php:126
+msgid 'Get genuine support from genuine people. Whether it\'s customization or compatibility, our seasoned developers deliver tailored solutions to your queries.'
+msgstr ""
+
+#: inc/about-theme.php:131
+msgid 'Upgrade To Premium With Straight 20% OFF.'
+msgstr ""
+
+#: inc/about-theme.php:132
+msgid 'Get our amazing WordPress theme with exclusive 20% off use the coupon'
+msgstr ""
+
+#: inc/about-theme.php:133
+msgid 'GETPro20'
+msgstr ""
+
+#: inc/about-theme.php:149
+msgid 'View changelog below:'
+msgstr ""
+
+#: inc/about-theme.php:217
+msgid 'View Free vs Pro Table below:'
+msgstr ""
+
+#: inc/about-theme.php:222
+msgid 'Free Theme'
+msgstr ""
+
+#: inc/about-theme.php:223
+msgid 'Pro Theme'
+msgstr ""
+
+#: inc/about-theme.php:228
+msgid 'Theme Demo Set Up'
+msgstr ""
+
+#: inc/about-theme.php:233
+msgid 'Additional Templates, Color options and Fonts'
+msgstr ""
+
+#: inc/about-theme.php:238
+msgid 'Included Demo Content'
+msgstr ""
+
+#: inc/about-theme.php:243
+msgid 'Section Ordering'
+msgstr ""
+
+#: inc/about-theme.php:248
+msgid 'Multiple Sections'
+msgstr ""
+
+#: inc/about-theme.php:253
+msgid 'Additional Plugins'
+msgstr ""
+
+#: inc/about-theme.php:258
+msgid 'Premium Technical Support'
+msgstr ""
+
+#: inc/about-theme.php:263
+msgid 'Access to Support Forums'
+msgstr ""
+
+#: inc/about-theme.php:268
+msgid 'Free updates'
+msgstr ""
+
+#: inc/about-theme.php:273
+msgid 'Unlimited Domains'
+msgstr ""
+
+#: inc/about-theme.php:278
+msgid 'Responsive Design'
+msgstr ""
+
+#: inc/about-theme.php:283
+msgid 'Live Customizer'
+msgstr ""
+
+#: inc/about-theme.php:290
+msgid 'Go for Premium'
+msgstr ""
+
+#: template-parts/post/content-none.php:22
+msgid 'Ready to publish your first post'
+msgstr ""
+
+#: template-parts/post/content-none.php:28
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/post/single-post.php:40
+msgid 'Parent post link'
+msgstr ""
+
+#: template-parts/post/single-post.php:45
+msgid 'Next:'
+msgstr ""
+
+#: template-parts/post/single-post.php:47
+msgid 'Previous:'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid 'You must be logged in to checkout.'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid 'Your order'
+msgstr ""
